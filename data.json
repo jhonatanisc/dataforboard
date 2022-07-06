@@ -1,0 +1,47 @@
+{
+    "RRHH":[
+     {
+      "Transformación digital": 2,
+      "Comunicación y alineación": 3,
+      "Implementación de métricas y mejoras": 2,
+      "Visión empresarial conjunta": 2,
+      "Transformación digital": 4
+     }
+    ],
+    "JURIDICO":[
+     {
+      "Transformación digital": 1,
+      "Comunicación y alineación": 4,
+      "Implementación de métricas y mejoras": 2,
+      "Visión empresarial conjunta": 2,
+      "Transformación digital": 2
+     }
+    ],
+    "NEGOCIO":[
+     {
+      "Transformación digital": 2,
+      "Comunicación y alineación": 4,
+      "Implementación de métricas y mejoras": 4,
+      "Visión empresarial conjunta": 2,
+      "Transformación digital": 3
+     }
+    ],
+    "CONTRALORIA":[
+     {
+      "Transformación digital": 1,
+      "Comunicación y alineación": 3,
+      "Implementación de métricas y mejoras": 2,
+      "Visión empresarial conjunta": 2,
+      "Transformación digital": 3
+     }
+    ],
+    "Totales":[
+     {
+      "Transformación digital": 6,
+      "Comunicación y alineación": 7,
+      "Implementación de métricas y mejoras": 5,
+      "Visión empresarial conjunta": 4,
+      "Transformación digital": 8
+     }
+    ]
+    }

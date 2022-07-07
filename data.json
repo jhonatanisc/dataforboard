@@ -75,10 +75,10 @@
     {
         "Area": "Negocio",
         "Compromiso1": 1,
-        "Compromiso2": 0,
-        "Compromiso3": 0,
-        "Compromiso4": 0,
-        "Compromiso5": 0
+        "Compromiso2": 1,
+        "Compromiso3": 1,
+        "Compromiso4": 1,
+        "Compromiso5": 1
     },
     {
         "Area": "General",

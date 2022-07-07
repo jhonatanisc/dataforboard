@@ -1,47 +1,100 @@
 {
-    "RRHH": [
-        {
-            "Innovacion en la agenda del presente": 2,
-            "Comunicación y alineación": 3,
-            "Implementación de métricas y mejoras": 2,
-            "Visión empresarial conjunta": 2,
-            "Transformación digital": 4
-        }
-    ],
-    "JURIDICO": [
-        {
-            "Innovacion en la agenda del presente": 1,
-            "Comunicación y alineación": 4,
-            "Implementación de métricas y mejoras": 2,
-            "Visión empresarial conjunta": 2,
-            "Transformación digital": 2
-        }
-    ],
-    "NEGOCIO": [
-        {
-            "Innovacion en la agenda del presente": 2,
-            "Comunicación y alineación": 4,
-            "Implementación de métricas y mejoras": 4,
-            "Visión empresarial conjunta": 2,
-            "Transformación digital": 3
-        }
-    ],
-    "CONTRALORIA": [
-        {
-            "Innovacion en la agenda del presente": 1,
-            "Comunicación y alineación": 3,
-            "Implementación de métricas y mejoras": 2,
-            "Visión empresarial conjunta": 2,
-            "Transformación digital": 3
-        }
-    ],
-    "Totales": [
-        {
-            "Innovacion en la agenda del presente": 6,
-            "Comunicación y alineación": 7,
-            "Implementación de métricas y mejoras": 5,
-            "Visión empresarial conjunta": 4,
-            "Transformación digital": 8
-        }
-    ]
+    "Avance": [
+    {
+        "Area": "Ingeniería de Sistemas",
+        "Compromiso 1": 1,
+        "Compromiso 2": 2,
+        "Compromiso 3": 1,
+        "Compromiso 4": 1,
+        "Compromiso 5": 1
+    },
+    {
+        "Area": "Seguridad de la Información",
+        "Compromiso 1": 1,
+        "Compromiso 2": 2,
+        "Compromiso 3": 1,
+        "Compromiso 4": 1,
+        "Compromiso 5": 1
+    },
+    {
+        "Area": "Jurídico y Compliance",
+        "Compromiso 1": 2,
+        "Compromiso 2": 1,
+        "Compromiso 3": 1,
+        "Compromiso 4": 0,
+        "Compromiso 5": 1
+    },
+    {
+        "Area": "Infraestructura de TI",
+        "Compromiso 1": 2,
+        "Compromiso 2": 1,
+        "Compromiso 3": 1,
+        "Compromiso 4": 0,
+        "Compromiso 5": 0
+    },
+    {
+        "Area": "Operaciones y QA",
+        "Compromiso 1": 1,
+        "Compromiso 2": 2,
+        "Compromiso 3": 1,
+        "Compromiso 4": 1,
+        "Compromiso 5": 1
+    },
+    {
+        "Area": "Oficina de Proyectos",
+        "Compromiso 1": 1,
+        "Compromiso 2": 1,
+        "Compromiso 3": 2,
+        "Compromiso 4": 0,
+        "Compromiso 5": 1
+    },
+    {
+        "Area": "Recursos Humanos",
+        "Compromiso 1": 1,
+        "Compromiso 2": 1,
+        "Compromiso 3": 1,
+        "Compromiso 4": 1,
+        "Compromiso 5": 0
+    },
+    {
+        "Area": "Normatividad",
+        "Compromiso 1": 1,
+        "Compromiso 2": 1,
+        "Compromiso 3": 1,
+        "Compromiso 4": 0,
+        "Compromiso 5": 1
+    },
+    {
+        "Area": "Administración y Finanzas",
+        "Compromiso 1": 1,
+        "Compromiso 2": 1,
+        "Compromiso 3": 1,
+        "Compromiso 4": 0,
+        "Compromiso 5": 1
+    },
+    {
+        "Area": "Negocio",
+        "Compromiso 1": 1,
+        "Compromiso 2": 0,
+        "Compromiso 3": 0,
+        "Compromiso 4": 0,
+        "Compromiso 5": 0
+    },
+    {
+        "Area": "General",
+        "Compromiso 1": 12,
+        "Compromiso 2": 12,
+        "Compromiso 3": 10,
+        "Compromiso 4": 4,
+        "Compromiso 5": 7
+    },
+    {
+        "Area": "Totales",
+        "Compromiso 1": 5,
+        "Compromiso 2": 3,
+        "Compromiso 3": 2,
+        "Compromiso 4": 1,
+        "Compromiso 5": 2
+    }
+]
 }

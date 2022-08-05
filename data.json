@@ -2,91 +2,91 @@
     "Avance": [
     {
         "Area": "Ingeniería de Sistemas",
-        "Compromiso1": 1,
-        "Compromiso2": 2,
-        "Compromiso3": 1,
-        "Compromiso4": 1,
-        "Compromiso5": 1
+        "Compromiso1": 0,
+        "Compromiso2": 0,
+        "Compromiso3": 0,
+        "Compromiso4": 0,
+        "Compromiso5": 0
     },
     {
         "Area": "Seguridad de la Información",
-        "Compromiso1": 1,
-        "Compromiso2": 2,
-        "Compromiso3": 1,
-        "Compromiso4": 1,
-        "Compromiso5": 1
+        "Compromiso1": 0,
+        "Compromiso2": 0,
+        "Compromiso3": 0,
+        "Compromiso4": 0,
+        "Compromiso5": 0
     },
     {
         "Area": "Jurídico y Compliance",
-        "Compromiso1": 2,
-        "Compromiso2": 1,
-        "Compromiso3": 1,
+        "Compromiso1": 0,
+        "Compromiso2": 0,
+        "Compromiso3": 0,
         "Compromiso4": 0,
-        "Compromiso5": 1
+        "Compromiso5": 0
     },
     {
         "Area": "Infraestructura de TI",
-        "Compromiso1": 2,
-        "Compromiso2": 1,
-        "Compromiso3": 1,
+        "Compromiso1": 0,
+        "Compromiso2": 0,
+        "Compromiso3": 0,
         "Compromiso4": 0,
         "Compromiso5": 0
     },
     {
         "Area": "Operaciones y QA",
-        "Compromiso1": 1,
-        "Compromiso2": 2,
-        "Compromiso3": 1,
-        "Compromiso4": 1,
-        "Compromiso5": 1
+        "Compromiso1": 0,
+        "Compromiso2": 0,
+        "Compromiso3": 0,
+        "Compromiso4": 0,
+        "Compromiso5": 0
     },
     {
         "Area": "Oficina de Proyectos",
-        "Compromiso1": 1,
-        "Compromiso2": 1,
-        "Compromiso3": 2,
+        "Compromiso1": 0,
+        "Compromiso2": 0,
+        "Compromiso3": 0,
         "Compromiso4": 0,
-        "Compromiso5": 1
+        "Compromiso5": 0
     },
     {
         "Area": "Recursos Humanos",
-        "Compromiso1": 1,
-        "Compromiso2": 1,
-        "Compromiso3": 1,
-        "Compromiso4": 1,
+        "Compromiso1": 0,
+        "Compromiso2": 0,
+        "Compromiso3": 0,
+        "Compromiso4": 0,
         "Compromiso5": 0
     },
     {
         "Area": "Normatividad",
-        "Compromiso1": 1,
-        "Compromiso2": 1,
-        "Compromiso3": 1,
+        "Compromiso1": 0,
+        "Compromiso2": 0,
+        "Compromiso3": 0,
         "Compromiso4": 0,
-        "Compromiso5": 1
+        "Compromiso5": 0
     },
     {
         "Area": "Administración y Finanzas",
-        "Compromiso1": 1,
-        "Compromiso2": 1,
-        "Compromiso3": 1,
+        "Compromiso1": 0,
+        "Compromiso2": 0,
+        "Compromiso3": 0,
         "Compromiso4": 0,
-        "Compromiso5": 1
+        "Compromiso5": 0
     },
     {
         "Area": "Negocio",
-        "Compromiso1": 1,
-        "Compromiso2": 1,
-        "Compromiso3": 1,
-        "Compromiso4": 1,
-        "Compromiso5": 1
+        "Compromiso1": 0,
+        "Compromiso2": 0,
+        "Compromiso3": 0,
+        "Compromiso4": 0,
+        "Compromiso5": 0
     },
     {
         "Area": "General",
-        "Compromiso1": 12,
-        "Compromiso2": 12,
-        "Compromiso3": 10,
-        "Compromiso4": 4,
-        "Compromiso5": 7
+        "Compromiso1": 0,
+        "Compromiso2": 0,
+        "Compromiso3": 0,
+        "Compromiso4": 0,
+        "Compromiso5": 0
     },
     {
         "Area": "Totales",

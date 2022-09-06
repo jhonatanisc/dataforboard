@@ -18,7 +18,7 @@
  },
  {
   "Area": "Jurídico y Compliance",
-  "Compromiso1": 1,
+  "Compromiso1": 2,
   "Compromiso2": 0,
   "Compromiso3": 0,
   "Compromiso4": 0,
@@ -50,7 +50,7 @@
  },
  {
   "Area": "Recursos Humanos",
-  "Compromiso1": 1,
+  "Compromiso1": 2,
   "Compromiso2": 1,
   "Compromiso3": 0,
   "Compromiso4": 0,
@@ -74,7 +74,7 @@
  },
  {
   "Area": "General",
-  "Compromiso1": 12,
+  "Compromiso1": 14,
   "Compromiso2": 5,
   "Compromiso3": 0,
   "Compromiso4": 0,

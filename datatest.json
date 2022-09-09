@@ -114,16 +114,16 @@
   "C3Retraso": 0,
   "Compromiso4": 1,
   "C4Retraso": 0,
-  "Compromiso5": 0,
+  "Compromiso5": 1,
   "C5Retraso": 0
  },
  {
   "Area": "General",
-  "Compromiso1": 14,
+  "Compromiso1": 16,
   "Compromiso2": 6,
   "Compromiso3": 0,
   "Compromiso4": 2,
-  "Compromiso5": 0
+  "Compromiso5": 1
  },
  {
   "Area": "Totales",

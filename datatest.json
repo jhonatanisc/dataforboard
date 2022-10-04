@@ -60,7 +60,7 @@
   "C2Retraso": 0,
   "Compromiso3": 0,
   "C3Retraso": 0,
-  "Compromiso4": 1,
+  "Compromiso4": 2,
   "C4Retraso": 0,
   "Compromiso5": 0,
   "C5Retraso": 0
@@ -120,9 +120,9 @@
  {
   "Area": "General",
   "Compromiso1": 18,
-  "Compromiso2": 19,
+  "Compromiso2": 18,
   "Compromiso3": 0,
-  "Compromiso4": 2,
+  "Compromiso4": 3,
   "Compromiso5": 1
  },
  {

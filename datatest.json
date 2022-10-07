@@ -4,7 +4,7 @@
   "Area": "Ingeniería de Sistemas",
   "Compromiso1": 2,
   "C1Retraso": 0,
-  "Compromiso2": 3,
+  "Compromiso2": 4,
   "C2Retraso": 0,
   "Compromiso3": 0,
   "C3Retraso": 0,
@@ -43,11 +43,11 @@
   "Area": "Infraestructura de TI",
   "Compromiso1": 0,
   "C1Retraso": 2,
-  "Compromiso2": 2,
+  "Compromiso2": 3,
   "C2Retraso": 0,
   "Compromiso3": 0,
   "C3Retraso": 0,
-  "Compromiso4": 0,
+  "Compromiso4": 1,
   "C4Retraso": 0,
   "Compromiso5": 0,
   "C5Retraso": 0
@@ -120,9 +120,9 @@
  {
   "Area": "General",
   "Compromiso1": 18,
-  "Compromiso2": 18,
+  "Compromiso2": 20,
   "Compromiso3": 0,
-  "Compromiso4": 3,
+  "Compromiso4": 4,
   "Compromiso5": 1
  },
  {

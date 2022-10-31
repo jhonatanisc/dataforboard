@@ -1,6 +1,6 @@
 {
  "Avance":[
-   {
+    {
   "Area": "Ingeniería de Sistemas",
   "Compromiso1": 2,
   "C1Retraso": 0,
@@ -43,7 +43,7 @@
   "Area": "Infraestructura de TI",
   "Compromiso1": 0,
   "C1Retraso": 2,
-  "Compromiso2": 3,
+  "Compromiso2": 4,
   "C2Retraso": 0,
   "Compromiso3": 0,
   "C3Retraso": 0,
@@ -106,7 +106,7 @@
  },
  {
   "Area": "Negocio",
-  "Compromiso1": 2,
+  "Compromiso1": 3,
   "C1Retraso": 0,
   "Compromiso2": 3,
   "C2Retraso": 0,
@@ -119,8 +119,8 @@
  },
  {
   "Area": "General",
-  "Compromiso1": 19,
-  "Compromiso2": 23,
+  "Compromiso1": 20,
+  "Compromiso2": 24,
   "Compromiso3": 0,
   "Compromiso4": 5,
   "Compromiso5": 1

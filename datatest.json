@@ -1,10 +1,10 @@
 {
  "Avance":[
-    {
+   {
   "Area": "Ingeniería de Sistemas",
   "Compromiso1": 2,
   "C1Retraso": 0,
-  "Compromiso2": 5,
+  "Compromiso2": 6,
   "C2Retraso": 0,
   "Compromiso3": 0,
   "C3Retraso": 0,
@@ -43,7 +43,7 @@
   "Area": "Infraestructura de TI",
   "Compromiso1": 0,
   "C1Retraso": 2,
-  "Compromiso2": 5,
+  "Compromiso2": 4,
   "C2Retraso": 0,
   "Compromiso3": 0,
   "C3Retraso": 0,

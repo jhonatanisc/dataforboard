@@ -17,7 +17,7 @@
   "Area": "Seguridad de la Información",
   "Compromiso1": 3,
   "C1Retraso": 1,
-  "Compromiso2": 2,
+  "Compromiso2": 3,
   "C2Retraso": 0,
   "Compromiso3": 0,
   "C3Retraso": 0,
@@ -120,7 +120,7 @@
  {
   "Area": "General",
   "Compromiso1": 29,
-  "Compromiso2": 35,
+  "Compromiso2": 36,
   "Compromiso3": 2,
   "Compromiso4": 8,
   "Compromiso5": 1

@@ -5,5 +5,12 @@
   "Nombre": "Figma",
   "Descripcion": "Figma es una herramienta de prototipado web y editor de gráficos vectorial, que a diferencia de las otras herramientas, se aloja en la web. Además, una de las características que tiene Figma es que, al estar basada en el navegador, puedes compartir el proyecto con tu equipo y hacer modificaciones en la misma mesa de trabajo.",
   "Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"
+ },
+ {
+  "Categoria": "Herramientas",
+  "Link": "https://www.canva.com/es_419/",
+  "Nombre": "Canva",
+  "Descripcion": "Herramienta gratuita de diseño gráfico en línea. Puedes usarla para crear publicaciones para redes sociales, presentaciones, carteles, videos, etc.",
+  "Logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png/1667px-Canva_logo.png"
  }
 ]

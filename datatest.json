@@ -6,7 +6,7 @@
   "C1Retraso": 0,
   "Compromiso2": 7,
   "C2Retraso": 0,
-  "Compromiso3": 0,
+  "Compromiso3": 1,
   "C3Retraso": 0,
   "Compromiso4": 0,
   "C4Retraso": 0,
@@ -66,7 +66,7 @@
   "C5Retraso": 0
  },
  {
-  "Area": "Contraloriía",
+  "Area": "Contraloría",
   "Compromiso1": 4,
   "C1Retraso": 0,
   "Compromiso2": 7,
@@ -121,7 +121,7 @@
   "Area": "General",
   "Compromiso1": 29,
   "Compromiso2": 42,
-  "Compromiso3": 2,
+  "Compromiso3": 3,
   "Compromiso4": 8,
   "Compromiso5": 1
  },

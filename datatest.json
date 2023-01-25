@@ -43,7 +43,7 @@
   "Area": "Infraestructura de TI",
   "Compromiso1": 2,
   "C1Retraso": 2,
-  "Compromiso2": 6,
+  "Compromiso2": 7,
   "C2Retraso": 0,
   "Compromiso3": 0,
   "C3Retraso": 0,
@@ -120,7 +120,7 @@
  {
   "Area": "General",
   "Compromiso1": 29,
-  "Compromiso2": 45,
+  "Compromiso2": 46,
   "Compromiso3": 4,
   "Compromiso4": 8,
   "Compromiso5": 1

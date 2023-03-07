@@ -75,7 +75,7 @@
   "C3Retraso": 0,
   "Compromiso4": 1,
   "C4Retraso": 0,
-  "Compromiso5": 0,
+  "Compromiso5": 1,
   "C5Retraso": 0
  },
  {
@@ -123,7 +123,7 @@
   "Compromiso2": 47,
   "Compromiso3": 6,
   "Compromiso4": 11,
-  "Compromiso5": 2
+  "Compromiso5": 3
  },
  {
   "Area": "Totales",

@@ -110,7 +110,7 @@
   "C1Retraso": 0,
   "Compromiso2": 7,
   "C2Retraso": 0,
-  "Compromiso3": 1,
+  "Compromiso3": 2,
   "C3Retraso": 0,
   "Compromiso4": 2,
   "C4Retraso": 0,
@@ -121,7 +121,7 @@
   "Area": "General",
   "Compromiso1": 29,
   "Compromiso2": 50,
-  "Compromiso3": 7,
+  "Compromiso3": 8,
   "Compromiso4": 13,
   "Compromiso5": 3
  },

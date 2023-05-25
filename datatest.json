@@ -19,7 +19,7 @@
   "C1Retraso": 1,
   "Compromiso2": 7,
   "C2Retraso": 0,
-  "Compromiso3": 1,
+  "Compromiso3": 2,
   "C3Retraso": 0,
   "Compromiso4": 1,
   "C4Retraso": 0,
@@ -31,7 +31,7 @@
   "Compromiso1": 3,
   "C1Retraso": 0,
   "Compromiso2": 6,
-  "C2Retraso": 0,
+  "C2Retraso": 1,
   "Compromiso3": 0,
   "C3Retraso": 0,
   "Compromiso4": 2,
@@ -120,8 +120,8 @@
  {
   "Area": "General",
   "Compromiso1": 29,
-  "Compromiso2": 52,
-  "Compromiso3": 9,
+  "Compromiso2": 53,
+  "Compromiso3": 10,
   "Compromiso4": 15,
   "Compromiso5": 9
  },
